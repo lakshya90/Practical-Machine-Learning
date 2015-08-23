@@ -1,0 +1,1 @@
+As a part of the Practical Machine Learning course, we are conducting a prediction model experiment. The intent of this assignment is to predict the manner in which people exercise. Dataset : http://groupware.les.inf.puc-rio.br/har
